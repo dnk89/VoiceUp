@@ -1,7 +1,7 @@
 # VoiceUp
 VoiceUp - EdTech SaaS for Speech/Hearing Therapy &amp; Bilingual Support
 
-## Goal: Help children with speech/hearing issues learn in a foreign language environment (e.g., Ukrainian/Russian kids in Latvian schools).
+## Goal: Help children with speech/hearing issues learn in a foreign language environment.
 
 ## Architecture: .NET 9 Microservices, Monorepo, Docker, YARP, RabbitMQ.
 
